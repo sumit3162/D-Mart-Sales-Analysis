@@ -50,7 +50,7 @@ This project analyzes sales data from D-Mart to uncover key insights into sales 
 ## 🚀 How to Use
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/D-Mart_Sales_Analysis.git
+   git clone https://github.com//sumit3162/D-Mart_Sales_Analysis.git
    ```
 2. Install dependencies:
    ```
